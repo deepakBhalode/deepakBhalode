@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepakBhalode
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning learning asp.net core & angular.
+- 🌱 I’m currently learning asp.net core & angular.
 - 📫 Have ideas to discuss, then reach me out at deepak.bhalode.sbg@gmail.com
 
 <!---
