@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deepakBhalode - "A developer who codes for food and loves to teach"
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently working on spring boot & angular.
-- 📫 Have ideas to discuss, then reach me out at deepak.bhalode.sbg@gmail.com
+- 👀 Full stack development enthusiast
+- 🌱 Currently, exploring the world of microservice using Spring Boot.
+- 📫 Have queries or ideas to discuss, then reach me out at bhalodedeepak@gmail.com
 
 <!---
 deepakBhalode/deepakBhalode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
